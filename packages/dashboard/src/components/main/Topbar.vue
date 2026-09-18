@@ -5,7 +5,7 @@
     <q-avatar>
       <img src="/logo-white.svg">
     </q-avatar>
-    R2-Explorer
+    资源管理器
   </q-toolbar-title>
   <q-space />
   <div v-if="mainStore.buckets.length > 1">
